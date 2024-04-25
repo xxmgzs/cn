@@ -1,6 +1,6 @@
 ![](https://www.thinkphp.cn/uploads/images/20230630/300c856765af4d8ae758c503185f8739.png)
 
-ThinkPHP 8.0
+ 小熊猫工作室
 ===============
 
 ## 特性
