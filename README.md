@@ -8,7 +8,7 @@
  小熊猫工作室
 --------------
 
-梦幻西游工具箱已更新至==2.0版本==，请复制连接到游览器下载：https://wwk.lanzoum.com/iKOJh1wgeo8b  密码:9rps
+梦幻西游工具箱已更新至==2.0版本==，请复制连接到游览器下载：https://wwk.lanzoum.com/iEdY21wgg2xg  密码:gsbr
 
 超激斗梦境辅助目前版本2.2，无更新。
 
