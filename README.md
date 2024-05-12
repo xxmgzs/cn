@@ -8,7 +8,7 @@
  小熊猫工作室
 --------------
 
-梦幻西游工具箱已更新至==2.0版本==，请复制连接到游览器下载：https://wwk.lanzoum.com/iSSNy1xexdaf
+梦幻西游工具箱已更新至==2.2版本==，请复制连接到游览器下载：https://wwk.lanzoum.com/iSSNy1xexdaf
 
 电脑网页导航助手分享：https://wwk.lanzoum.com/iV5Td1xgjsad
 
